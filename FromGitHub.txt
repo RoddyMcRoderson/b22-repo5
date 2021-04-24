@@ -1,1 +1,1 @@
-Added new file ti empty remote repository
+Added new file to empty remote repository
